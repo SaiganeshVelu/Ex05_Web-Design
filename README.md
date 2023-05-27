@@ -68,7 +68,8 @@ p
 </body>
 </html>
 ## OUTPUT
-(https://github.com/SaiganeshVelu/Ex05_Web-Design/assets/127816325/6b6d0301-09fb-4b87-8300-9f8de8d92c98)
+![Screenshot 2023-05-27 094102](https://github.com/SaiganeshVelu/Ex05_Web-Design/assets/127816325/dd56c1f9-f749-49d9-b1fa-869d152e09db)
+
 
 
 ## RESULT
